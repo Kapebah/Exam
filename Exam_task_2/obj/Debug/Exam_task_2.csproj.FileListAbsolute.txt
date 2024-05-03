@@ -1,0 +1,7 @@
+S:\work\FoAP\Exam\Exam_task_2\bin\Debug\Exam_task_2.exe.config
+S:\work\FoAP\Exam\Exam_task_2\bin\Debug\Exam_task_2.exe
+S:\work\FoAP\Exam\Exam_task_2\bin\Debug\Exam_task_2.pdb
+S:\work\FoAP\Exam\Exam_task_2\obj\Debug\Exam_task_2.csproj.AssemblyReference.cache
+S:\work\FoAP\Exam\Exam_task_2\obj\Debug\Exam_task_2.csproj.CoreCompileInputs.cache
+S:\work\FoAP\Exam\Exam_task_2\obj\Debug\Exam_task_2.exe
+S:\work\FoAP\Exam\Exam_task_2\obj\Debug\Exam_task_2.pdb
