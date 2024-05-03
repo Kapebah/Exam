@@ -1,0 +1,7 @@
+S:\work\FoAP\Exam\Exam_task_1\bin\Debug\Exam_task_1.exe.config
+S:\work\FoAP\Exam\Exam_task_1\bin\Debug\Exam_task_1.exe
+S:\work\FoAP\Exam\Exam_task_1\bin\Debug\Exam_task_1.pdb
+S:\work\FoAP\Exam\Exam_task_1\obj\Debug\Exam_task_1.csproj.AssemblyReference.cache
+S:\work\FoAP\Exam\Exam_task_1\obj\Debug\Exam_task_1.csproj.CoreCompileInputs.cache
+S:\work\FoAP\Exam\Exam_task_1\obj\Debug\Exam_task_1.exe
+S:\work\FoAP\Exam\Exam_task_1\obj\Debug\Exam_task_1.pdb
